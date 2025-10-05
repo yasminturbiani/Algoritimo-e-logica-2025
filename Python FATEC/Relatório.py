@@ -1,0 +1,15 @@
+nome = input("Qual é o seu nome?")
+endereco = input("Qual é o seu endereço?")
+cidade = input("Qual a sua cidade?")
+cep = input("Qual o seu CEP")
+dia = input("Qual o dia do seu nascimento?")
+mes = input("Qual o mês do seu nascimento?")
+ano = input("Qual o ano do seu nascimento?")
+
+print ("Seu nome é: ", nome)
+print ("Seu endereço é: ", endereco)
+print ("Sua cidade é: ", cidade)
+print ("Seu CEP é: ", cep)
+print ("O dia do seu nascimento é: ", dia)
+print ("O mês do seu nascimento é: ", mes)
+print ("O ano do seu nascimento é: ", ano)l
