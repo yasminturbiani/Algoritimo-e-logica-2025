@@ -1,0 +1,8 @@
+print("olá mundo!")
+print("Eu sou a Yasmin")
+print("E eu sou muito boa")
+print("Estou criando minha mente algoritimica")
+print("Tenho 19 anos")
+print("Trabalhei muito hoje")
+print("Aprendi a instalar certificado digital hoje")
+print("Hoje tem jogo do corinthias!!")

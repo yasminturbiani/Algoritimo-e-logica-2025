@@ -1,0 +1,10 @@
+print ("Olá, boa noite")
+NOME = input ("Qual o seu nome?")
+EMPRESA = input ("Em qual empresa você trabalha? ")
+CARGO = input ("Qual o seu cargo na empresa? ")
+FUNCAO = input("Qual a sua função na empresa? ")
+
+print ("Seu nome é: ",NOME)
+print ("Você trabalha na: ",EMPRESA)
+print ("Seu cargo é: ",CARGO)
+print ("Sua função é: ",FUNCAO)

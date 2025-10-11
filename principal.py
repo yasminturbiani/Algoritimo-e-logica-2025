@@ -1,1 +1,0 @@
-print("Teste git Algoritimo e logica")

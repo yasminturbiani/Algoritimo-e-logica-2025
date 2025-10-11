@@ -1,0 +1,8 @@
+print ("Olá, boa noite")
+N = input ("Qual o seu nome?")
+S = input ("Qual o seu signo? ")
+C = input ("Qual a sua cidade? ")
+print ("Veja o que você digitou")
+print ("Nome: ",N)
+print ("Seu signo: ",S)
+print ("Só isso...")
